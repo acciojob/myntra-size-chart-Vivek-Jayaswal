@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.fr1{
+	background-color: #c0504d;
+}
+.fr2{
+	background-color:#da9694;
+}
+.fr3{
+	background-color:#f2dcdb;
+}
+.fr4{
+	background-color:#d9d9d9;
+}
+table,th,td{
+	border:2px solid black;
+	border-collapse:collapse;
+	text-align:left;
+}
+table{
+	width:500px
+}
